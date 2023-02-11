@@ -1,0 +1,15 @@
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#.5\DZ_36\bin\Debug\net6.0\DZ_36.exe
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#.5\DZ_36\bin\Debug\net6.0\DZ_36.deps.json
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#.5\DZ_36\bin\Debug\net6.0\DZ_36.runtimeconfig.json
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#.5\DZ_36\bin\Debug\net6.0\DZ_36.dll
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#.5\DZ_36\bin\Debug\net6.0\DZ_36.pdb
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#.5\DZ_36\obj\Debug\net6.0\DZ_36.csproj.AssemblyReference.cache
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#.5\DZ_36\obj\Debug\net6.0\DZ_36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#.5\DZ_36\obj\Debug\net6.0\DZ_36.AssemblyInfoInputs.cache
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#.5\DZ_36\obj\Debug\net6.0\DZ_36.AssemblyInfo.cs
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#.5\DZ_36\obj\Debug\net6.0\DZ_36.csproj.CoreCompileInputs.cache
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#.5\DZ_36\obj\Debug\net6.0\DZ_36.dll
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#.5\DZ_36\obj\Debug\net6.0\refint\DZ_36.dll
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#.5\DZ_36\obj\Debug\net6.0\DZ_36.pdb
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#.5\DZ_36\obj\Debug\net6.0\DZ_36.genruntimeconfig.cache
+C:\Users\iaves\OneDrive\Desktop\Seminar_C#.5\DZ_36\obj\Debug\net6.0\ref\DZ_36.dll
